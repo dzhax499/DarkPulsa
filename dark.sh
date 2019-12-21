@@ -20,14 +20,14 @@ sleep 5
 echo -e '\e[1;31m'"[!] Not subscribed YtDzakir.."
 sleep 2
 echo "Subscribing.."
-python yt.py
+python2 yt.py
 sleep 9
 echo "Checking you subscribed.."
 sleep 5
 echo -e '\e[1;31m'"[!]Not SubscriBeD, subscribed again!"
 sleep 3
 echo "Subscribing again.."
-python yt.py
+python2 yt.py
 sleep 9
 echo "checking.."
 sleep 9
